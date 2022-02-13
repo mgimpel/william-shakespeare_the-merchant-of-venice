@@ -30,8 +30,8 @@
 		<meta property="file-as" refines="#title">Merchant of Venice, The</meta>
 		<dc:subject id="subject-1">Jews--Italy--Drama</dc:subject>
 		<dc:subject id="subject-2">Moneylenders--Drama</dc:subject>
-		<dc:subject id="subject-2">Venice (Italy)--Drama</dc:subject>
-		<dc:subject id="subject-2">Shylock (Fictitious character)--Drama</dc:subject>
+		<dc:subject id="subject-3">Venice (Italy)--Drama</dc:subject>
+		<dc:subject id="subject-4">Shylock (Fictitious character)--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008106132</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
@@ -58,10 +58,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Shakespeare</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095332</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Canaletto</dc:contributor>
+		<meta property="file-as" refines="#artist">Canal, Giovanni Antonio</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Giovanni Antonio Canal</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Canaletto</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79065963</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jeremy Hylton</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Hylton, Jeremy</meta>
